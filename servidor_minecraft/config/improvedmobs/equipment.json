@@ -1,0 +1,1748 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "aerlunerpg:cudgel": [
+      24350,
+      0.8234185
+    ],
+    "aerlunerpg:cudgelragemetsmall": [
+      24350,
+      0.8234185
+    ],
+    "aerlunerpg:lightning": [
+      25134,
+      0.0014999999
+    ],
+    "alexsmobs:skelewag_sword": [
+      24383,
+      0.7804518
+    ],
+    "alexsmobs:tendon_whip": [
+      24680,
+      0.0469
+    ],
+    "ars_nouveau:enchanters_sword": [
+      21578,
+      6.632802
+    ],
+    "ars_nouveau:spell_bow": [
+      23349,
+      2.1195521
+    ],
+    "ars_nouveau:spell_crossbow": [
+      23805,
+      1.5245426
+    ],
+    "born_in_chaos_v1:birch_branches": [
+      24625,
+      0.40784094
+    ],
+    "born_in_chaos_v1:dark_ritual_dagger": [
+      23894,
+      1.4096019
+    ],
+    "born_in_chaos_v1:darkwarblade": [
+      17953,
+      14.226674
+    ],
+    "born_in_chaos_v1:frostbitten_blade": [
+      23214,
+      2.2976365
+    ],
+    "born_in_chaos_v1:great_reaper_axe": [
+      23090,
+      3.1486528
+    ],
+    "born_in_chaos_v1:icy_sweetness": [
+      21684,
+      6.411711
+    ],
+    "born_in_chaos_v1:intoxicating_dagger": [
+      23214,
+      2.2976365
+    ],
+    "born_in_chaos_v1:nightmare_scythe": [
+      23807,
+      1.5219555
+    ],
+    "born_in_chaos_v1:nut_hammer": [
+      24680,
+      0.0469
+    ],
+    "born_in_chaos_v1:sharpened_dark_metal_sword": [
+      23189,
+      2.330707
+    ],
+    "born_in_chaos_v1:shell_mace": [
+      24350,
+      0.8234185
+    ],
+    "born_in_chaos_v1:skullbreaker_hammer": [
+      22029,
+      5.689535
+    ],
+    "born_in_chaos_v1:soul_cutlass": [
+      23894,
+      1.4096019
+    ],
+    "born_in_chaos_v1:soulbane": [
+      19813,
+      10.312961
+    ],
+    "born_in_chaos_v1:spider_bite_sword": [
+      23214,
+      2.2976365
+    ],
+    "born_in_chaos_v1:spiritual_sword": [
+      24255,
+      0.94598794
+    ],
+    "born_in_chaos_v1:supreme_measure": [
+      3,
+      53.470917
+    ],
+    "born_in_chaos_v1:sweet_axe": [
+      23977,
+      1.3027282
+    ],
+    "born_in_chaos_v1:sweet_sword": [
+      24052,
+      1.2063804
+    ],
+    "born_in_chaos_v1:trident_hayfork": [
+      24538,
+      0.56912816
+    ],
+    "born_in_chaos_v1:wood_splitter_axe": [
+      24501,
+      0.6222344
+    ],
+    "iceandfire:amphithere_macuahuitl": [
+      24255,
+      0.94598794
+    ],
+    "iceandfire:copper_axe": [
+      24574,
+      0.5130528
+    ],
+    "iceandfire:copper_sword": [
+      24612,
+      0.44120392
+    ],
+    "iceandfire:dragonbone_axe": [
+      22138,
+      5.459938
+    ],
+    "iceandfire:dragonbone_bow": [
+      22181,
+      5.3690643
+    ],
+    "iceandfire:dragonbone_sword": [
+      22208,
+      5.311902
+    ],
+    "iceandfire:dragonbone_sword_fire": [
+      21579,
+      6.6307178
+    ],
+    "iceandfire:dragonbone_sword_ice": [
+      21579,
+      6.6307178
+    ],
+    "iceandfire:dragonbone_sword_lightning": [
+      21579,
+      6.6307178
+    ],
+    "iceandfire:dragonsteel_fire_axe": [
+      10683,
+      29.865591
+    ],
+    "iceandfire:dragonsteel_fire_sword": [
+      10955,
+      29.272722
+    ],
+    "iceandfire:dragonsteel_ice_axe": [
+      10683,
+      29.865591
+    ],
+    "iceandfire:dragonsteel_ice_sword": [
+      10955,
+      29.272722
+    ],
+    "iceandfire:dragonsteel_lightning_axe": [
+      10683,
+      29.865591
+    ],
+    "iceandfire:dragonsteel_lightning_sword": [
+      10955,
+      29.272722
+    ],
+    "iceandfire:dread_knight_sword": [
+      22795,
+      4.0215507
+    ],
+    "iceandfire:dread_queen_sword": [
+      10955,
+      29.272722
+    ],
+    "iceandfire:dread_sword": [
+      24935,
+      0.021399999
+    ],
+    "iceandfire:ghost_sword": [
+      19819,
+      10.300405
+    ],
+    "iceandfire:hippocampus_slapper": [
+      24294,
+      0.89580816
+    ],
+    "iceandfire:hippogryph_sword": [
+      24222,
+      0.988363
+    ],
+    "iceandfire:myrmex_desert_axe": [
+      24039,
+      1.2230678
+    ],
+    "iceandfire:myrmex_desert_sword": [
+      24085,
+      1.1640399
+    ],
+    "iceandfire:myrmex_desert_sword_venom": [
+      24085,
+      1.1640399
+    ],
+    "iceandfire:myrmex_jungle_axe": [
+      24039,
+      1.2230678
+    ],
+    "iceandfire:myrmex_jungle_sword": [
+      24085,
+      1.1640399
+    ],
+    "iceandfire:myrmex_jungle_sword_venom": [
+      24085,
+      1.1640399
+    ],
+    "iceandfire:silver_axe": [
+      24277,
+      0.91769844
+    ],
+    "iceandfire:silver_sword": [
+      24323,
+      0.8583848
+    ],
+    "iceandfire:stymphalian_bird_dagger": [
+      24234,
+      0.9729605
+    ],
+    "iceandfire:troll_weapon_axe": [
+      24325,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_column": [
+      24325,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_column_forest": [
+      24325,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_column_frost": [
+      24325,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_hammer": [
+      24325,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_trunk": [
+      24325,
+      0.8557993
+    ],
+    "iceandfire:troll_weapon_trunk_frost": [
+      24325,
+      0.8557993
+    ],
+    "kimetsunoyaiba:bamboo_sword": [
+      24442,
+      0.7026087
+    ],
+    "kimetsunoyaiba:black_blood_brambles": [
+      25084,
+      0.0064999997
+    ],
+    "kimetsunoyaiba:blooddemonart_kamanue": [
+      23762,
+      1.5802112
+    ],
+    "kimetsunoyaiba:blooddemonart_rokuro": [
+      23762,
+      1.5802112
+    ],
+    "kimetsunoyaiba:chigama": [
+      25122,
+      0.0026999998
+    ],
+    "kimetsunoyaiba:demon_hand": [
+      25135,
+      0.0014
+    ],
+    "kimetsunoyaiba:handfan": [
+      24115,
+      1.1255676
+    ],
+    "kimetsunoyaiba:kitchen_knife": [
+      23422,
+      2.0236118
+    ],
+    "kimetsunoyaiba:kunai": [
+      23784,
+      1.5517184
+    ],
+    "kimetsunoyaiba:muzan_hand_2": [
+      24857,
+      0.029199997
+    ],
+    "kimetsunoyaiba:nichirinsword": [
+      24519,
+      0.59678036
+    ],
+    "kimetsunoyaiba:nichirinsword_bamboo": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_bamboo_2": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_black": [
+      24519,
+      0.59678036
+    ],
+    "kimetsunoyaiba:nichirinsword_cherry_blossom": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_flame": [
+      24519,
+      0.59678036
+    ],
+    "kimetsunoyaiba:nichirinsword_genya": [
+      23915,
+      1.382534
+    ],
+    "kimetsunoyaiba:nichirinsword_golden": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_himejima_1": [
+      23203,
+      2.3121839
+    ],
+    "kimetsunoyaiba:nichirinsword_himejima_2": [
+      23203,
+      2.3121839
+    ],
+    "kimetsunoyaiba:nichirinsword_iguro": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_inosuke": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_kaigaku": [
+      25105,
+      0.0044
+    ],
+    "kimetsunoyaiba:nichirinsword_kanae": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_kanawo": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_kanroji": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_mist": [
+      24519,
+      0.59678036
+    ],
+    "kimetsunoyaiba:nichirinsword_rengoku": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_senior": [
+      24519,
+      0.59678036
+    ],
+    "kimetsunoyaiba:nichirinsword_senior_2": [
+      23754,
+      1.5905781
+    ],
+    "kimetsunoyaiba:nichirinsword_senior_super": [
+      23407,
+      2.043305
+    ],
+    "kimetsunoyaiba:nichirinsword_shinazugawa": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_tanjiro": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_tanjiro_2": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_thunder": [
+      24519,
+      0.59678036
+    ],
+    "kimetsunoyaiba:nichirinsword_tokito": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_tomioka": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinsword_uzui": [
+      23670,
+      1.6996226
+    ],
+    "kimetsunoyaiba:nichirinsword_water": [
+      24519,
+      0.59678036
+    ],
+    "kimetsunoyaiba:nichirinsword_wind": [
+      24519,
+      0.59678036
+    ],
+    "kimetsunoyaiba:nichirinsword_yoriichi": [
+      21900,
+      5.960195
+    ],
+    "kimetsunoyaiba:nichirinsword_zenitsu": [
+      23745,
+      1.6022447
+    ],
+    "kimetsunoyaiba:nichirinswordmoon": [
+      24519,
+      0.59678036
+    ],
+    "kimetsunoyaiba:sword_hairo": [
+      24255,
+      0.94598794
+    ],
+    "kimetsunoyaiba:sword_kokushibo_1": [
+      25084,
+      0.0064999997
+    ],
+    "kimetsunoyaiba:sword_kokushibo_2": [
+      24857,
+      0.029199997
+    ],
+    "kimetsunoyaiba:sword_kokushibo_body": [
+      24857,
+      0.029199997
+    ],
+    "minecraft:bow": [
+      22581,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      22875,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      22344,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      22406,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      23549,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      25005,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      25068,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      24572,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      24659,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      23649,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      21508,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      21578,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      24599,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      23649,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      24775,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      24883,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      23449,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      22649,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      24959,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      25022,
+      0.0127
+    ],
+    "world:darkflame": [
+      23299,
+      2.1854107
+    ],
+    "world:greenstuff": [
+      24115,
+      1.1255676
+    ],
+    "world:lantern": [
+      23725,
+      1.6281849
+    ],
+    "world:swordgreen": [
+      24574,
+      0.5130528
+    ],
+    "world:thflaming_staff": [
+      24867,
+      0.028199999
+    ]
+  },
+  "OFFHAND": {
+    "aerlunerpg:woodshield": [
+      1081,
+      0.9434178
+    ],
+    "ars_nouveau:enchanters_shield": [
+      223,
+      2.053812
+    ],
+    "minecraft:ender_pearl": [
+      873,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      845,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      473,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      551,
+      1.6255897
+    ]
+  },
+  "FEET": {
+    "aerlunerpg:furarmor_boots": [
+      5921,
+      0.010799999
+    ],
+    "alexsmobs:flying_fish_boots": [
+      5888,
+      0.014099999
+    ],
+    "alexsmobs:roadrunner_boots": [
+      5326,
+      0.6972618
+    ],
+    "ars_nouveau:arcanist_boots": [
+      4804,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_boots": [
+      4044,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_boots": [
+      5220,
+      0.8363856
+    ],
+    "born_in_chaos_v1:dark_metal_armor_boots": [
+      3073,
+      5.3436694
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_boots": [
+      4275,
+      2.0590668
+    ],
+    "iceandfire:armor_amythest_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_black_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_blue_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_bronze_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_copper_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_copper_metal_boots": [
+      5539,
+      0.049
+    ],
+    "iceandfire:armor_electric_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_gray_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_green_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_red_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_sapphire_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_silver_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_silver_metal_boots": [
+      5248,
+      0.80001926
+    ],
+    "iceandfire:armor_white_boots": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:deathworm_red_boots": [
+      4742,
+      1.4508864
+    ],
+    "iceandfire:deathworm_white_boots": [
+      4742,
+      1.4508864
+    ],
+    "iceandfire:deathworm_yellow_boots": [
+      4742,
+      1.4508864
+    ],
+    "iceandfire:dragonsteel_fire_boots": [
+      27,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_ice_boots": [
+      27,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_lightning_boots": [
+      27,
+      11.709396
+    ],
+    "iceandfire:forest_troll_leather_boots": [
+      4683,
+      1.5271299
+    ],
+    "iceandfire:frost_troll_leather_boots": [
+      4683,
+      1.5271299
+    ],
+    "iceandfire:mountain_troll_leather_boots": [
+      4683,
+      1.5271299
+    ],
+    "iceandfire:myrmex_desert_boots": [
+      4214,
+      2.1392972
+    ],
+    "iceandfire:myrmex_jungle_boots": [
+      4214,
+      2.1392972
+    ],
+    "iceandfire:sheep_boots": [
+      5723,
+      0.030599998
+    ],
+    "iceandfire:tide_blue_boots": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_bronze_boots": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_deepblue_boots": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_green_boots": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_purple_boots": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_red_boots": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_teal_boots": [
+      3571,
+      4.262535
+    ],
+    "kimetsunoyaiba:clothes_bamboo_boots": [
+      3685,
+      3.9977505
+    ],
+    "kimetsunoyaiba:panda_armor_boots": [
+      3572,
+      4.2602634
+    ],
+    "kimetsunoyaiba:uniform_boots": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_kocho_boots": [
+      3509,
+      4.402046
+    ],
+    "kimetsunoyaiba:uniform_rengoku_boots": [
+      3509,
+      4.402046
+    ],
+    "kimetsunoyaiba:uniform_uzui_boots": [
+      3685,
+      3.9977505
+    ],
+    "kimetsunoyaiba:uniform_zenitsu_boots": [
+      3509,
+      4.402046
+    ],
+    "minecraft:chainmail_boots": [
+      5437,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      4521,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      5503,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      5189,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      5785,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      4394,
+      1.9030677
+    ]
+  },
+  "LEGS": {
+    "aerlunerpg:furarmor_leggings": [
+      5921,
+      0.010799999
+    ],
+    "alexsmobs:centipede_leggings": [
+      3723,
+      3.9059477
+    ],
+    "alexsmobs:emu_leggings": [
+      4958,
+      1.173019
+    ],
+    "ars_nouveau:arcanist_leggings": [
+      4804,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_leggings": [
+      4044,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_leggings": [
+      5220,
+      0.8363856
+    ],
+    "born_in_chaos_v1:dark_metal_armor_leggings": [
+      3073,
+      5.3436694
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_leggings": [
+      4275,
+      2.0590668
+    ],
+    "iceandfire:armor_amythest_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_black_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_blue_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_bronze_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_copper_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_copper_metal_leggings": [
+      5539,
+      0.049
+    ],
+    "iceandfire:armor_electric_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_gray_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_green_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_red_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_sapphire_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_silver_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_silver_metal_leggings": [
+      5248,
+      0.80001926
+    ],
+    "iceandfire:armor_white_leggings": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:deathworm_red_leggings": [
+      4742,
+      1.4508864
+    ],
+    "iceandfire:deathworm_white_leggings": [
+      4742,
+      1.4508864
+    ],
+    "iceandfire:deathworm_yellow_leggings": [
+      4742,
+      1.4508864
+    ],
+    "iceandfire:dragonsteel_fire_leggings": [
+      27,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_ice_leggings": [
+      27,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_lightning_leggings": [
+      27,
+      11.709396
+    ],
+    "iceandfire:forest_troll_leather_leggings": [
+      4683,
+      1.5271299
+    ],
+    "iceandfire:frost_troll_leather_leggings": [
+      4683,
+      1.5271299
+    ],
+    "iceandfire:mountain_troll_leather_leggings": [
+      4683,
+      1.5271299
+    ],
+    "iceandfire:myrmex_desert_leggings": [
+      4214,
+      2.1392972
+    ],
+    "iceandfire:myrmex_jungle_leggings": [
+      4214,
+      2.1392972
+    ],
+    "iceandfire:sheep_leggings": [
+      5723,
+      0.030599998
+    ],
+    "iceandfire:tide_blue_leggings": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_bronze_leggings": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_deepblue_leggings": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_green_leggings": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_purple_leggings": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_red_leggings": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_teal_leggings": [
+      3571,
+      4.262535
+    ],
+    "kimetsunoyaiba:armor_ravaged_war_formation_wolf_leggings": [
+      2502,
+      6.5410576
+    ],
+    "kimetsunoyaiba:clothes_akaza_leggings": [
+      5229,
+      0.8247162
+    ],
+    "kimetsunoyaiba:clothes_doma_leggings": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_gyutaro_leggings": [
+      5399,
+      0.59678036
+    ],
+    "kimetsunoyaiba:clothes_yorichi_leggings": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:panda_armor_leggings": [
+      3572,
+      4.2602634
+    ],
+    "kimetsunoyaiba:uniform_leggings": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_muichiro_leggings": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_uzui_leggings": [
+      3685,
+      3.9977505
+    ],
+    "minecraft:chainmail_leggings": [
+      5437,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      4521,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      5503,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      5189,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      5785,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      4394,
+      1.9030677
+    ]
+  },
+  "CHEST": {
+    "aerlunerpg:furarmor_chestplate": [
+      5921,
+      0.010799999
+    ],
+    "alexsmobs:crocodile_chestplate": [
+      4747,
+      1.4444326
+    ],
+    "alexsmobs:rocky_chestplate": [
+      4826,
+      1.3426114
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      5174,
+      0.89580816
+    ],
+    "alexsmobs:unsettling_kimono": [
+      5397,
+      0.59963983
+    ],
+    "ars_nouveau:arcanist_robes": [
+      4804,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_robes": [
+      4044,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_robes": [
+      5220,
+      0.8363856
+    ],
+    "born_in_chaos_v1:dark_metal_armor_chestplate": [
+      3073,
+      5.3436694
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate": [
+      4275,
+      2.0590668
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_chestplate": [
+      5439,
+      0.53719383
+    ],
+    "iceandfire:armor_amythest_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_black_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_blue_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_bronze_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_copper_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_copper_metal_chestplate": [
+      5539,
+      0.049
+    ],
+    "iceandfire:armor_electric_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_gray_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_green_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_red_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_sapphire_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_silver_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:armor_silver_metal_chestplate": [
+      5248,
+      0.80001926
+    ],
+    "iceandfire:armor_white_chestplate": [
+      2994,
+      5.510578
+    ],
+    "iceandfire:deathworm_red_chestplate": [
+      4742,
+      1.4508864
+    ],
+    "iceandfire:deathworm_white_chestplate": [
+      4742,
+      1.4508864
+    ],
+    "iceandfire:deathworm_yellow_chestplate": [
+      4742,
+      1.4508864
+    ],
+    "iceandfire:dragonsteel_fire_chestplate": [
+      27,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_ice_chestplate": [
+      27,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_lightning_chestplate": [
+      27,
+      11.709396
+    ],
+    "iceandfire:forest_troll_leather_chestplate": [
+      4683,
+      1.5271299
+    ],
+    "iceandfire:frost_troll_leather_chestplate": [
+      4683,
+      1.5271299
+    ],
+    "iceandfire:mountain_troll_leather_chestplate": [
+      4683,
+      1.5271299
+    ],
+    "iceandfire:myrmex_desert_chestplate": [
+      4214,
+      2.1392972
+    ],
+    "iceandfire:myrmex_jungle_chestplate": [
+      4214,
+      2.1392972
+    ],
+    "iceandfire:sheep_chestplate": [
+      5723,
+      0.030599998
+    ],
+    "iceandfire:tide_blue_chestplate": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_bronze_chestplate": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_deepblue_chestplate": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_green_chestplate": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_purple_chestplate": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_red_chestplate": [
+      3571,
+      4.262535
+    ],
+    "iceandfire:tide_teal_chestplate": [
+      3571,
+      4.262535
+    ],
+    "kimetsunoyaiba:armor_ravaged_war_formation_wolf_chestplate": [
+      2502,
+      6.5410576
+    ],
+    "kimetsunoyaiba:clothes_akaza_chestplate": [
+      5229,
+      0.8247162
+    ],
+    "kimetsunoyaiba:clothes_bamboo_chestplate": [
+      3685,
+      3.9977505
+    ],
+    "kimetsunoyaiba:clothes_cherry_blossom_chestplate": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:clothes_doma_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_gyutaro_chestplate": [
+      5399,
+      0.59678036
+    ],
+    "kimetsunoyaiba:clothes_hand_demon_chestplate": [
+      5263,
+      0.7804518
+    ],
+    "kimetsunoyaiba:clothes_himejima_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_iguro_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_kaigaku_chestplate": [
+      4841,
+      1.3233083
+    ],
+    "kimetsunoyaiba:clothes_kocho_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_kokushibo_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_rengoku_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_rui_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_shinazugawa_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_tanjiro_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_tomioka_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_yorichi_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:clothes_zenitsu_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:daki_kimono_chestplate": [
+      5201,
+      0.8609696
+    ],
+    "kimetsunoyaiba:drum_armor_chestplate": [
+      5367,
+      0.6416611
+    ],
+    "kimetsunoyaiba:hairo_mant_chestplate": [
+      5359,
+      0.6526449
+    ],
+    "kimetsunoyaiba:kokushibo_tentacles_chestplate": [
+      5012,
+      1.1037718
+    ],
+    "kimetsunoyaiba:mukimuki_chestplate": [
+      5334,
+      0.6865328
+    ],
+    "kimetsunoyaiba:muzan_tentacles_chestplate": [
+      3905,
+      3.4058104
+    ],
+    "kimetsunoyaiba:panda_armor_chestplate": [
+      3572,
+      4.2602634
+    ],
+    "kimetsunoyaiba:tanjiro_tentacles_chestplate": [
+      4849,
+      1.3130171
+    ],
+    "kimetsunoyaiba:uniform_chestplate": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_genya_chestplate": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_iguro_chestplate": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_kocho_chestplate": [
+      3509,
+      4.402046
+    ],
+    "kimetsunoyaiba:uniform_muichiro_chestplate": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_rengoku_chestplate": [
+      3509,
+      4.402046
+    ],
+    "kimetsunoyaiba:uniform_shinazugawa_chestplate": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_tanjiro_chestplate": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_tomioka_chestplate": [
+      4016,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uniform_uzui_chestplate": [
+      3685,
+      3.9977505
+    ],
+    "kimetsunoyaiba:uniform_zenitsu_chestplate": [
+      3509,
+      4.402046
+    ],
+    "kimetsunoyaiba:urogi_wings_chestplate": [
+      5307,
+      0.7225666
+    ],
+    "kimetsunoyaiba:yorichi_0_armor_chestplate": [
+      5399,
+      0.59678036
+    ],
+    "kimetsunoyaiba:zohakuten_clothes_chestplate": [
+      4713,
+      1.4883413
+    ],
+    "kimetsunoyaiba:zohakuten_drum_chestplate": [
+      5035,
+      1.0742859
+    ],
+    "minecraft:chainmail_chestplate": [
+      5437,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      4521,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      5503,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      5189,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      5785,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      4394,
+      1.9030677
+    ],
+    "world:dragonb_chestplate": [
+      4908,
+      1.2371918
+    ]
+  },
+  "HEAD": {
+    "aerlunerpg:hatcc_helmet": [
+      5995,
+      8.999999E-4
+    ],
+    "aerlunerpg:new_yearhat_helmet": [
+      5995,
+      8.999999E-4
+    ],
+    "aerlunerpg:owlarmor_helmet": [
+      5869,
+      0.0135
+    ],
+    "aerlunerpg:pipe_helmet": [
+      5990,
+      0.0014
+    ],
+    "aerlunerpg:pumphead_helmet": [
+      5927,
+      0.0076999995
+    ],
+    "alexsmobs:fedora": [
+      5565,
+      0.043899998
+    ],
+    "alexsmobs:frontier_cap": [
+      5259,
+      0.75292885
+    ],
+    "alexsmobs:froststalker_helmet": [
+      5352,
+      0.62781405
+    ],
+    "alexsmobs:moose_headgear": [
+      5250,
+      0.7647448
+    ],
+    "alexsmobs:novelty_hat": [
+      5565,
+      0.043899998
+    ],
+    "alexsmobs:sombrero": [
+      5536,
+      0.0468
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      5000,
+      1.0871058
+    ],
+    "ars_nouveau:arcanist_hood": [
+      4779,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_hood": [
+      4019,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_hood": [
+      5195,
+      0.8363856
+    ],
+    "born_in_chaos_v1:damned_demomans_hat_helmet": [
+      5703,
+      0.0301
+    ],
+    "born_in_chaos_v1:dark_metal_armor_helmet": [
+      3048,
+      5.3436694
+    ],
+    "born_in_chaos_v1:lord_pumpkinheads_hat_helmet": [
+      3742,
+      3.7963035
+    ],
+    "born_in_chaos_v1:missionary_hat_helmet": [
+      5603,
+      0.040099997
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_helmet": [
+      4250,
+      2.0590668
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_helmet": [
+      5414,
+      0.53719383
+    ],
+    "born_in_chaos_v1:spiritual_guide_sombrero_helmet": [
+      5623,
+      0.038099997
+    ],
+    "iceandfire:armor_amythest_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_black_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_blue_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_bronze_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_copper_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_copper_metal_helmet": [
+      5514,
+      0.049
+    ],
+    "iceandfire:armor_electric_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_gray_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_green_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_red_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_sapphire_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_silver_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:armor_silver_metal_helmet": [
+      5223,
+      0.80001926
+    ],
+    "iceandfire:armor_white_helmet": [
+      2969,
+      5.510578
+    ],
+    "iceandfire:blindfold": [
+      5855,
+      0.0149
+    ],
+    "iceandfire:deathworm_red_helmet": [
+      4717,
+      1.4508864
+    ],
+    "iceandfire:deathworm_white_helmet": [
+      4717,
+      1.4508864
+    ],
+    "iceandfire:deathworm_yellow_helmet": [
+      4717,
+      1.4508864
+    ],
+    "iceandfire:dragonsteel_fire_helmet": [
+      2,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_ice_helmet": [
+      2,
+      11.709396
+    ],
+    "iceandfire:dragonsteel_lightning_helmet": [
+      2,
+      11.709396
+    ],
+    "iceandfire:earplugs": [
+      5855,
+      0.0149
+    ],
+    "iceandfire:forest_troll_leather_helmet": [
+      4658,
+      1.5271299
+    ],
+    "iceandfire:frost_troll_leather_helmet": [
+      4658,
+      1.5271299
+    ],
+    "iceandfire:mountain_troll_leather_helmet": [
+      4658,
+      1.5271299
+    ],
+    "iceandfire:myrmex_desert_helmet": [
+      4189,
+      2.1392972
+    ],
+    "iceandfire:myrmex_jungle_helmet": [
+      4189,
+      2.1392972
+    ],
+    "iceandfire:sheep_helmet": [
+      5698,
+      0.030599998
+    ],
+    "iceandfire:tide_blue_helmet": [
+      3546,
+      4.262535
+    ],
+    "iceandfire:tide_bronze_helmet": [
+      3546,
+      4.262535
+    ],
+    "iceandfire:tide_deepblue_helmet": [
+      3546,
+      4.262535
+    ],
+    "iceandfire:tide_green_helmet": [
+      3546,
+      4.262535
+    ],
+    "iceandfire:tide_purple_helmet": [
+      3546,
+      4.262535
+    ],
+    "iceandfire:tide_red_helmet": [
+      3546,
+      4.262535
+    ],
+    "iceandfire:tide_teal_helmet": [
+      3546,
+      4.262535
+    ],
+    "kimetsunoyaiba:armor_ravaged_war_formation_wolf_helmet": [
+      2477,
+      6.5410576
+    ],
+    "kimetsunoyaiba:clothes_akaza_helmet": [
+      5204,
+      0.8247162
+    ],
+    "kimetsunoyaiba:dice_steak_head_helmet": [
+      5374,
+      0.59678036
+    ],
+    "kimetsunoyaiba:hair_muichiro_demon_slayer_mark_helmet": [
+      5774,
+      0.022999998
+    ],
+    "kimetsunoyaiba:item_sneak_helmet": [
+      5374,
+      0.59678036
+    ],
+    "kimetsunoyaiba:item_sneak_red_helmet": [
+      5374,
+      0.59678036
+    ],
+    "kimetsunoyaiba:kaburamaru_helmet": [
+      5374,
+      0.59678036
+    ],
+    "kimetsunoyaiba:kokushibo_head_1_helmet": [
+      3934,
+      3.2008622
+    ],
+    "kimetsunoyaiba:kokushibo_head_2_helmet": [
+      3470,
+      4.4332337
+    ],
+    "kimetsunoyaiba:mask_hyottoko_helmet": [
+      5374,
+      0.59678036
+    ],
+    "kimetsunoyaiba:mask_tengu_helmet": [
+      5374,
+      0.59678036
+    ],
+    "kimetsunoyaiba:muzan_hat_helmet": [
+      5374,
+      0.59678036
+    ],
+    "kimetsunoyaiba:muzan_tentacles_helmet": [
+      3880,
+      3.4058104
+    ],
+    "kimetsunoyaiba:panda_armor_helmet": [
+      3547,
+      4.2602634
+    ],
+    "kimetsunoyaiba:panda_hood_helmet": [
+      5334,
+      0.6526449
+    ],
+    "kimetsunoyaiba:sabito_mask_helmet": [
+      5374,
+      0.59678036
+    ],
+    "kimetsunoyaiba:spider_head_helmet": [
+      3934,
+      3.2008622
+    ],
+    "kimetsunoyaiba:uniform_muichiro_helmet": [
+      3991,
+      2.7738247
+    ],
+    "kimetsunoyaiba:uzui_decoration_helmet": [
+      5266,
+      0.74371517
+    ],
+    "kimetsunoyaiba:zenitsu_head_helmet": [
+      5374,
+      0.59678036
+    ],
+    "minecraft:chainmail_helmet": [
+      5412,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      4496,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      5478,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      5164,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      5760,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      4369,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      5108,
+      0.948558
+    ],
+    "world:dragonb_helmet": [
+      4883,
+      1.2371918
+    ]
+  }
+}
